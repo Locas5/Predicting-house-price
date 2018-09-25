@@ -7,4 +7,8 @@ This project contains the following files:
 5. A description of the dataset used.
 
 This project is an adption of the Dan Becker`s Machine Learning course projects. In this project, we are going to predict the house prices in Melbourne area. The main code file contains 4 main sections:
-1.
+1. Data Exploration (basic but not comprehensive)
+2. Choosings of target variable and feature variables
+3. Build the first machine learning model: Decision Tree Model
+4. Build the second machine learning model: Random Forst Model
+
